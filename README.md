@@ -7,7 +7,7 @@ ActiveSupport::Concern dependent rails model concerns. Bam!
 
 This can be installed from git only. In your Gemfile:
 
-    gem 'configurable', git: "git://github.com/bschaeffer/configurable.git"
+    gem 'configurable', git: "https://github.com/PriumSolutions/configurable.git"
 
 
 ## Usage
